@@ -19,7 +19,8 @@ a 7.84% and 4.17% decrease in MAE for univariate and multivariate time series fo
 3. Train the model. We provide the experiment scripts of all benchmarks under the folder `./scripts`. You can reproduce the experiment results by:
 
 ```bash
-bash ./scripts/ecl_M.sh
+bash ./scripts/traffic_M.sh
+bash ./scripts/traffic_S.sh
 ```
 
 
